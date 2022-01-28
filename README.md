@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @medemak
 - 👀 I’m interested in tabletop gaming and cybersecurity
-- 🌱 I’m currently learning devsecops, network security
+- 🌱 I’m currently learning DevSecOps, network security
 - 💞️ I’m looking to collaborate on application security projects
 
 <!---
